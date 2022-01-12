@@ -14,10 +14,3 @@
 <a href="https://t.me/faggod">
    <img top="0" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" target="_blank" margin-left="10px">
 
-#### Goal on 2022: 
-   - Каждый день по минимум одному коммиту
- 
-
-   
-#### [Мой телеграмм канал](https://t.me/+RqWHISNAdz8u3f7V)
-#### [Мой твиттер](tter.com/DoWhatYouMean1)
