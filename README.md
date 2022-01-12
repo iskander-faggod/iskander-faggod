@@ -1,16 +1,15 @@
-### Hi there 👋
+### <h3 align="left">Всем привет!<br/> Меня зовут Кудашев Искандер, я учусь в ИТМО | ИТИП | ИС</h3>
 
-<!--
-**iskander-faggod/iskander-faggod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 👨‍🎓 Full-Stack разработчик, ITMO.Mentor(АиСд), Студент 2-го курса
 
-Here are some ideas to get you started:
+#### Hard-skills:
+   - OOP (`C#`)
+   - Backend (`ASP.NET Core`/`Entity Framework` | `NodeJs` / `NestJs` / `ExpressJs`)
+   - Frontend (`React`)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### My social networks:
+
+<a href="https://www.instagram.com/_faggod_/">
+   <img top="0" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" target="_blank" margin-left="10px">
+<a href="https://t.me/faggod">
+   <img top="0" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" target="_blank" margin-left="10px">
