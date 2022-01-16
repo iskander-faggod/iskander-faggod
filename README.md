@@ -3,7 +3,7 @@
 #### 👨‍🎓 Full-Stack разработчик, ITMO.Mentor(АиСд), Студент 2-го курса Университета ИТМО 
 
 #### Hard-skills:
-   - OOP (`C#`)
+   - OOP (`C#, TypeScript`)
    - Backend (`ASP.NET Core`, `Entity Framework` | `NodeJs`, `NestJs`, `ExpressJs`)
    - Frontend (`React : Styled-Components, Hooks, MUI`)
 
