@@ -5,7 +5,7 @@
 #### Hard-skills:
    - OOP (`C#`)
    - Backend (`ASP.NET Core`/`Entity Framework` | `NodeJs` / `NestJs` / `ExpressJs`)
-   - Frontend (`React`)
+   - Frontend (`React : `, `Styled-Components, Hooks, MUI`)
 
 #### My social networks:
 
