@@ -10,6 +10,9 @@
 
 #### Projects I'm currently working on:
    - ASP.NET Core MVC + React(with TypeScript) - prosper.platform
+
+![image](https://user-images.githubusercontent.com/60395869/151434998-5ae69029-cbe4-4928-bfb1-cbc9a025969c.png)
+
  
 #### My social networks:
 
