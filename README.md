@@ -7,6 +7,10 @@
    - Backend (`ASP.NET Core`, `Entity Framework` | `NodeJs`, `NestJs`, `ExpressJs`)
    - Frontend (`React : Styled-Components, Hooks, MUI`)
 
+
+#### Projects I'm currently working on:
+   - ASP.NET Core MVC + React(with TypeScript) - prosper.platform
+ 
 #### My social networks:
 
 <a href="https://www.instagram.com/_faggod_/">
