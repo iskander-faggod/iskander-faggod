@@ -4,7 +4,7 @@
 
 #### Hard-skills:
    - OOP (`C#, TypeScript`)
-   - Backend (`ASP.NET Core`, `Entity Framework` | `NodeJs`, `NestJs`, `ExpressJs`)
+   - Backend (`ASP.NET Core`, `Entity Framework`, `Dapper` | `NodeJs`, `NestJs`, `ExpressJs`)
    - Frontend (`React : Styled-Components, Hooks, MUI`)
 
 
