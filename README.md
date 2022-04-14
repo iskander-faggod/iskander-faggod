@@ -6,7 +6,7 @@
    - OOP (`C#, TypeScript`)
    - Backend (`ASP.NET Core`, `Entity Framework`, `Dapper` | `NodeJs`, `NestJs`, `ExpressJs`)
    - Frontend (`React : Styled-Components, Hooks, MUI`)
-   - OS ('Linux')
+   - OS (`Linux`)
 
 
 #### Projects I'm currently working on:
