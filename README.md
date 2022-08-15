@@ -9,8 +9,10 @@
    - OS (`Linux`)
 
 
-#### Projects I'm currently working on:
+#### Projects I have worked on:
    - ASP.NET Core MVC + React(with TypeScript) - prosper.platform
+   - Java + AWS - WaterGuru
+   - ASP.NET Core MVC + React(with TypeScript) - Solvintech
 
 
  
