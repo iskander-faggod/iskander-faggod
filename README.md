@@ -1,4 +1,4 @@
-### <h3 align="left">Всем привет!<br/> Меня зовут Кудашев Искандер, я учусь в ИТМО | ИТИП | ИС</h3>
+### <h3 align="left">Hello everyone!<br/> My name is Iskander, and I'm a software engineer from Saint-Petersburg</h3>
 
 #### 👨‍🎓 Full-Stack разработчик
 
@@ -13,6 +13,7 @@
    - ASP.NET Core MVC + React(with TypeScript) - prosper.platform
    - Java + AWS - WaterGuru
    - ASP.NET Core MVC + React(with TypeScript) - Solvintech
+   - .NET 6 + GraphQl + React(with TypeScript) + Kafka - Bars.Group
 
 
  
