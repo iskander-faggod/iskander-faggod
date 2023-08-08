@@ -1,6 +1,6 @@
 ### <h3 align="left">Hello everyone!<br/> My name is Iskander, and I'm a software engineer from Saint-Petersburg</h3>
 
-#### 👨‍🎓 Full-Stack разработчик
+#### .NET developer
 
 #### Hard-skills:
    - OOP (`C#`)
