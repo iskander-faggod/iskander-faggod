@@ -12,9 +12,8 @@
    - Java + AWS - WaterGuru
    - ASP.NET Core MVC + React(with TypeScript) - Solvintech
    - .NET 6 + GraphQl + React(with TypeScript) - Bars.Group
-   - .NET 7 + MongoDb + Kafka + ElasticSearch - Gold.Apple
    - .NET 7 + React 18 (Teamlead role) - M8Store
-
+   - .NET 8 + MongoDb + Kafka + ElasticSearch - Gold.Apple
 
  
 #### My social networks:
